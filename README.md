@@ -23,9 +23,9 @@ The example is explained in more details in the application note [AN2633](#Relat
 
 ## Operation
 
-1. Open `PreciseULPTimingP4.X` in MPLAB
+1. Open `PreciseULPTimingP4.X` in MPLAB.
 2. Connect the AVR P4 with your computer.
-3. Make sure the kit is selected as the tool to be programmed under project settings
+3. Make sure the kit is selected as the tool to be programmed under project settings.
 4. Press the make and program button to program the device.
 
 ## Conclusion
