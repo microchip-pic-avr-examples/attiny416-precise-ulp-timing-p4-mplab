@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>PreciseULPTimingP4</name>
+            <name>attiny416-precise-ulp-timing-p4-mplab</name>
             <creation-uuid>75aa2fdd-b90b-44d0-87af-fbd6350d5efa</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
