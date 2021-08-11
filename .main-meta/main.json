@@ -4,18 +4,18 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny416-precise-ulp-timing-p4-mplab",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Precise ULP Timing on P4",
         "projectName": "attiny416-precise-ulp-timing-p4-mplab",
         "shortDescription": "This MPLAB X example demonstrates precise, ultra-low-power timing using periodic enabling of the 32.768 kHz external crystal oscillator on the AVR P4 Field Engagement Board.",
         "ide": {
-            "name": "MPLABX",
-            "semverRange": ">=5.40"
+            "name": "MPLAB X",
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.20"
+                "semverRange": "^2.20.0"
             }
         ],
         "dfp": {
@@ -66,8 +66,11 @@
             "SLPCTRL"
         ],
         "keywords": [
-            "",
-            ""
+            "LED",
+            "Sleep",
+            "INT",
+            "START",
+            "CLKCTRL"
         ],
         "additionalData": {
             "longDescription": {
