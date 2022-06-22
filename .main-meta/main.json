@@ -2,7 +2,7 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.1.0",
+        "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny416-precise-ulp-timing-p4-mplab",
         "version": "1.0.1",
         "displayName": "Precise ULP Timing on P4",
@@ -32,33 +32,11 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "ATtiny416",
+                "name": "ATTINY416",
                 "versionRange": "*"
             }
         },
         "author": "Microchip",
-        "subcategories": [
-            [
-                "Peripherals",
-                "RTC"
-            ],
-            [
-                "Peripherals",
-                "TCB"
-            ],
-            [
-                "Peripherals",
-                "EVSYS"
-            ],
-            [
-                "Peripherals",
-                "SLPCTRL"
-            ],
-            [
-                "Development Kit",
-                "AVR P4"
-            ]
-        ],
         "peripherals": [
             "RTC",
             "TCB",
