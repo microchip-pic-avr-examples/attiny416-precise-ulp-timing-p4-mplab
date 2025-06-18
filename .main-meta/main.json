@@ -10,17 +10,17 @@
         "shortDescription": "This MPLAB X example demonstrates precise, ultra-low-power timing using periodic enabling of the 32.768 kHz external crystal oscillator on the AVR P4 Field Engagement Board.",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=5.40.0"
+            "semverRange": ">=6.25.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.20.0"
+                "semverRange": "^3.00.0"
             }
         ],
         "dfp": {
             "name": "ATtiny_DFP",
-            "semverRange": "^2.2.89"
+            "semverRange": "^3.3.272"
         },
         "configurator": {
             "name": "START",
